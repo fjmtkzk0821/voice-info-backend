@@ -13,7 +13,7 @@
 
 This software uses the following open source packages:
 
-- [React](https://reactjs.org/)
+- [Express.js](https://expressjs.com/)
 - [Node.js](https://nodejs.org/)
 
 ## Related
